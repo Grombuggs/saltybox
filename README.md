@@ -17,3 +17,5 @@ Currently, Saltybox supports cards from the following games:
 - Weird n' Wild Creatures
 - Numberless or hard to define cards (e.g. Baseball cards)
 - Magic: The Gathering (duh!)
+
+## [Download now!](https://github.com/Grombuggs/saltybox/releases/tag/v1.0)
