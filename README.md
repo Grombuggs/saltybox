@@ -21,7 +21,7 @@ Currently, Saltybox supports cards from the following games:
 - Numberless or hard to define cards (e.g. Baseball cards)
 - Magic: The Gathering (duh!)
 
-## [<p style="text-align: center;">Download now!</p>](https://github.com/Grombuggs/saltybox/releases)
+## <p style="text-align: center;">[Download now!](https://github.com/Grombuggs/saltybox/releases)</p>
 
 ## Credits
 All properties belong to their respective owners.
