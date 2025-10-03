@@ -17,6 +17,8 @@ Currently, Saltybox supports cards from the following games:
 - .HACK//Enemy
 - C-23
 - Hercules: The Legendary Journeys CCG
+- Spellfire
+- 24 TCG
 - Playing Cards (standard 52-card deck)
 - Numberless or hard to define cards (e.g. Baseball cards)
 - Magic: The Gathering (duh!)
