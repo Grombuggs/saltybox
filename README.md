@@ -19,6 +19,7 @@ Currently, Saltybox supports cards from the following games:
 - Hercules: The Legendary Journeys CCG
 - Spellfire
 - 24 TCG
+- Munchkin CCG
 - Playing Cards (standard 52-card deck)
 - Numberless or hard to define cards (e.g. Baseball cards)
 - Magic: The Gathering (duh!)
